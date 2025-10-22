@@ -35,7 +35,7 @@ I’m continuously developing my technical expertise in both **offensive and def
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,parrot,git,vscode,visualstudio,html,css,kali,windows&perline=6" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,ubuntu,git,vscode,visualstudio,html,css,kali,windows&perline=6" />
 </p>
 
 ---
