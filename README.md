@@ -41,6 +41,7 @@ I enjoy combining **programming skills with cybersecurity knowledge** to underst
 🧩 Practicing Data Structures & Algorithms to develop efficient solutions, strengthen problem-solving abilities, and optimize code performance.
 
 🚀 Expanding my technical knowledge through practical projects, continuous learning, and real-world cybersecurity challenges.
+
 ---
 
 # 🎯 My Goals
