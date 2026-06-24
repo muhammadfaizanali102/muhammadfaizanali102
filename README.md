@@ -28,29 +28,25 @@ I enjoy combining **programming skills with cybersecurity knowledge** to underst
 
 ---
 
-# 🚀 Currently Learning
+# ✨ Currently Learning & Exploring
 
-🔐 Ethical Hacking & Network Security  
-🧩 Data Structures & Algorithms  
-💻 Programming in **Python, C++, Java**  
-🐧 Linux Administration (**Kali Linux & Ubuntu**)  
-🔎 Digital Forensics & System Analysis  
-
+💻 Continuously improving my programming skills through Python, C++, and Java while building a strong foundation in software development.
+🔐 Exploring Ethical Hacking & Network Security to understand system vulnerabilities, threat detection, and defensive security practices.
+🐧 Gaining hands-on experience with Kali Linux & Ubuntu, focusing on Linux administration, system management, and security tools.
+🔎 Learning Digital Forensics & System Analysis techniques to investigate security incidents and analyze digital evidence.
+🧩 Practicing Data Structures & Algorithms to develop efficient solutions, strengthen problem-solving abilities, and optimize code performance.
+🚀 Expanding my technical knowledge through practical projects, continuous learning, and real-world cybersecurity challenges.
 ---
 
-# 💼 Experience & Roles
+# 🎯 My Goals
 
-🧑‍💼 **Team Director**  
-Organized university events including **Business Expo & Sports Olympiads**
-
-🧑‍💻 **IT Lab Assistant**  
-Maintained lab systems, assisted with **network setup & troubleshooting**
-
-💡 **Developer**  
-Working on programming and **cybersecurity-based projects**
-
-🎨 **Graphic Designer**  
-Designed posters and digital content using **Canva**
+🔍 To develop a strong foundation in Digital Forensics and Cybercrime Investigation.
+🛡️ To become confident in using security tools and techniques for analyzing, protecting, and securing systems.
+🤝 To contribute to open-source projects related to cybersecurity, automation, and software development.
+🐍 To enhance my Python scripting skills for automating repetitive tasks, security testing, and workflow optimization.
+📚 To continuously learn emerging technologies and stay updated with the latest cybersecurity trends and best practices.
+🚀 To build practical expertise through hands-on projects, real-world challenges, and continuous experimentation.
+🌐 To expand my knowledge of network security, ethical hacking, and system administration to become a well-rounded cybersecurity professional.
 
 ---
 
