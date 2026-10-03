@@ -6,12 +6,6 @@
   />
 </p>
 
-<!-- CYBERSECURITY HEADER BANNER -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,50:0b3b4a,100:00bcd4&height=230&section=header&text=muhammadfaizanali102&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
-<h1 align="center">👋 Hello, I'm Muhammad Faizan Ali</h1>
-
 <p align="center">
 🎓 <b>BS Cyber Security Student</b> • 🛡️ <b>Ethical Hacking Enthusiast</b> • 🌐 <b>Network Security Learner</b> • 🔎 <b>Future Security Analyst</b>
 </p>
@@ -369,12 +363,6 @@ Cybersecurity is a continuous learning process. I believe that practical experim
 <p align="center">
 
 ⭐ Explore my repositories • 🔎 Follow my cybersecurity journey • 🚀 Let's build and learn
-
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,50:0b3b4a,100:00bcd4&height=120&section=footer"/>
-
----
 
 <p align="center">
   <img
