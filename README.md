@@ -10,13 +10,6 @@
 🎓 <b>BS Cyber Security Student</b> • 🛡️ <b>Ethical Hacking Enthusiast</b> • 🌐 <b>Network Security Learner</b> • 🔎 <b>Future Security Analyst</b>
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Cyber+Security+Student;Ethical+Hacking+Enthusiast;SOC+%26+Security+Monitoring+Learner;Network+Security+%26+Threat+Analysis;Python+%7C+C%2B%2B+%7C+Java;Future+Security+Analyst"/>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=muhammadfaizanali102&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
 
 ---
 
