@@ -126,24 +126,6 @@ A security automation project integrating **Wazuh, n8n and AI-based alert proces
 
 ---
 
-## 🌐 Network Security Monitoring — Zeek & Suricata
-
-Hands-on network monitoring and intrusion detection lab using **Zeek and Suricata**.
-
-### Practiced Areas
-
-* Network traffic monitoring
-* Nmap scan analysis
-* Zeek `conn.log` analysis
-* Suricata IDS alerts
-* Custom detection rules
-* ICMP monitoring
-* Network reconnaissance detection
-
-**Technologies:** `Zeek` `Suricata` `Nmap` `Wireshark` `Linux`
-
----
-
 ## 🔐 SecureHash
 
 **SecureHash** is a security-focused password hashing and verification application designed to demonstrate secure authentication concepts.
@@ -160,26 +142,6 @@ Hands-on network monitoring and intrusion detection lab using **Zeek and Suricat
 * ⚙️ Environment-based configuration
 
 **Technologies:** `Python` `CustomTkinter` `Argon2id` `TOTP` `SQLite`
-
----
-
-## 📦 Inventory Management System
-
-A web-based inventory management system developed using **PHP, MySQL and Bootstrap 5**.
-
-### Features
-
-* Product management
-* Category management
-* Supplier management
-* Warehouse management
-* Stock management
-* Order management
-* Employee management
-* Dashboard
-* Database relationships
-
-**Technologies:** `PHP` `MySQL` `Bootstrap 5` `JavaScript` `XAMPP`
 
 ---
 
