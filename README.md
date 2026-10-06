@@ -56,12 +56,7 @@ Cyber Security
 
 ### 🔎 Threat Intelligence
 
-* IOC analysis
-* Malware intelligence
-* Hash investigation
-* MITRE ATT&CK mapping
-* VirusTotal analysis
-* AlienVault OTX
+* IOC analysis * Malware intelligence * Hash investigation * MITRE ATT&CK mapping * VirusTotal analysis * AlienVault OTX
 
 ### ⚙️ Security Automation
 
