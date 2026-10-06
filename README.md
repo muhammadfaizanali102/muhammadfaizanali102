@@ -39,20 +39,12 @@ Cyber Security
 
 ### 🛡️ Security Operations
 
-* Security monitoring and alert analysis
-* SIEM concepts and SOC workflows
-* Wazuh security monitoring
-* Security event investigation
-* Incident analysis
+* Security monitoring and alert analysis * SIEM concepts and SOC workflows * Wazuh security monitoring * Security event investigation * Incident analysis
 
 ### 🌐 Network Security
 
-* Network traffic analysis
-* Nmap scanning and enumeration
-* Wireshark packet analysis
-* Zeek Network Security Monitoring
-* Suricata IDS/IPS
-* Network reconnaissance
+* Network traffic analysis * Nmap scanning and enumeration * Wireshark packet analysis * Zeek Network Security Monitoring
+* Suricata IDS/IPS * Network reconnaissance
 
 ### 🔎 Threat Intelligence
 
@@ -60,20 +52,12 @@ Cyber Security
 
 ### ⚙️ Security Automation
 
-* Wazuh alert automation
-* n8n workflows
-* Webhook-based security integrations
-* Python security scripting
-* SOAR concepts
-* AI-assisted security alert analysis
+* Wazuh alert automation * n8n workflows * Webhook-based security integrations
+* Python security scripting * SOAR concepts* AI-assisted security alert analysis
 
 ### 🐧 Linux & Security Labs
 
-* Kali Linux
-* Ubuntu
-* Linux administration
-* VirtualBox / VMware
-* Security lab environments
+* Kali Linux * Ubuntu * Linux administration * VirtualBox / VMware * Security lab environments
 * TryHackMe & Hack The Box
 
 ---
@@ -82,17 +66,10 @@ Cyber Security
 
 I'm continuously developing my skills in:
 
-* 🔐 Ethical Hacking
-* 🌐 Network Security
-* 🛡️ SOC Operations
-* 🔎 Threat Intelligence
-* 🧬 Digital Forensics
-* 📊 Security Monitoring
-* 🤖 Security Automation
-* 🧠 MITRE ATT&CK
-* 🐍 Python for Cybersecurity
-* 🧩 Data Structures & Algorithms
-* 🌍 Network Administration
+* 🔐 Ethical Hacking * 🌐 Network Security * 🛡️ SOC Operations
+* 🔎 Threat Intelligence * 🧬 Digital Forensics * 📊 Security Monitoring
+* 🤖 Security Automation * 🧠 MITRE ATT&CK * 🐍 Python for Cybersecurity
+* 🧩 Data Structures & Algorithms * 🌍 Network Administration
 
 ---
 
