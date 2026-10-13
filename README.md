@@ -243,16 +243,6 @@ My long-term goal is to build strong practical expertise in cybersecurity and wo
 
 ---
 
-# 📈 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadfaizanali102&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
