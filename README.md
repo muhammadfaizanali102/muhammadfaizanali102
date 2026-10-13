@@ -198,8 +198,8 @@ SQL          ███████████
 
 * 🛡️ **Ethical Hacking** — Hope Foundation
 * 🔐 **Siemens PSCE** — OPSWAT Academy
-* 🏭 **ICIP — Introduction to Critical Infrastructure Protection**
-* 🌐 **CCNA** — Currently Enrolled
+* 🏭 **ICIP — Introduction to Critical Infrastructure Protection** - OPSWAT Academy
+* 🌐 **CCNA** — Completed 
 
 ---
 
