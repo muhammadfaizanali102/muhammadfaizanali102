@@ -201,9 +201,11 @@ SQL          ███████████
 <a href="https://github.com/muhammadfaizanali102">
 <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/muhammadfaizan-ali-466559446">
-<img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white"/>
+
+<a href="www.linkedin.com/in/muhammadfaizan-ali-466559446" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 </p>
 
 ---
