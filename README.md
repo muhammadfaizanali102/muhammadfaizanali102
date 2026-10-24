@@ -75,75 +75,52 @@ I'm continuously developing my skills in:
 
 # 🧪 Cybersecurity Projects
 
-## 🛡️ Wazuh + n8n AI Security Automation
+> A collection of cybersecurity, software development, network security, and machine learning projects, documenting practical implementation, tools, and technical learning.
 
-A security automation project integrating **Wazuh, n8n and AI-based alert processing**.
+### 🤖 [Wazuh + n8n + AI Security Automation](https://github.com/muhammadfaizanali102/wazuh-n8n-Ai-security-Automation)
 
-### Architecture
+Security automation project focused on integrating Wazuh security monitoring with n8n workflows and AI-assisted alert analysis. Explores webhook-based alert processing, workflow automation, and the development of a more efficient security operations workflow.
 
-```text
-┌─────────────────┐
-│   Wazuh Agent   │
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────┐
-│  Wazuh Manager  │
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────┐
-│ Security Alert  │
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────┐
-│   n8n Webhook   │
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────┐
-│ AI Processing   │
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────┐
-│ Decision/Action │
-└─────────────────┘
-```
+[![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-005571?style=flat-square)](https://wazuh.com/)
+[![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io/)
+[![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![AI](https://img.shields.io/badge/AI-Security%20Analysis-8A2BE2?style=flat-square)](https://github.com/muhammadfaizanali102/wazuh-n8n-Ai-security-Automation)
 
-### Key Areas
+### 📦 [Inventory Management System](https://github.com/muhammadfaizanali102/Inventory-Management-System)
 
-* Wazuh security alerts
-* Automated webhook integration
-* n8n workflow automation
-* AI-assisted alert analysis
-* Human-readable security summaries
-* Severity and response analysis
-* SOAR concepts
+A web-based inventory management application designed to organize product records and support inventory-related operations. Developed using PHP, MySQL, and Bootstrap, with a dashboard interface for managing inventory data and related records.
 
-**Technologies:** `Wazuh` `n8n` `Python` `Webhooks` `AI` `SOAR`
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![XAMPP](https://img.shields.io/badge/XAMPP-Development%20Environment-FB7A24?style=flat-square)](https://www.apachefriends.org/)
 
----
+### 🏏 [Cricket Match Outcome Prediction](https://github.com/muhammadfaizanali102/Cricket-Match-Outcome-Prediction)
 
-## 🔐 SecureHash
+A machine learning project focused on analyzing cricket match data and predicting match outcomes. This project explores data preparation, feature analysis, and predictive modeling to investigate patterns that may influence the result of a cricket match.
 
-**SecureHash** is a security-focused password hashing and verification application designed to demonstrate secure authentication concepts.
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Predictive%20Analytics-FF6F00?style=flat-square)](https://github.com/muhammadfaizanali102/Cricket-Match-Outcome-Prediction)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
-### Features
+### 🔐 [SecureHash — Password Hashing & Verification](https://github.com/muhammadfaizanali102/Secure-Hashing)
 
-* 🔑 Argon2id password hashing
-* 🌶️ Password peppering
-* 🔐 TOTP-based 2FA
-* 🎲 Secure password generation
-* 👤 Authentication system
-* 🗄️ SQLite database
-* 📋 Security audit logging
-* ⚙️ Environment-based configuration
+A password security application focused on secure password hashing and verification. The project explores modern password protection techniques, authentication security, and supporting features for strengthening credential management.
 
-**Technologies:** `Python` `CustomTkinter` `Argon2id` `TOTP` `SQLite`
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Argon2](https://img.shields.io/badge/Argon2id-Password%20Hashing-6A5ACD?style=flat-square)](https://github.com/P-H-C/phc-winner-argon2)
+[![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![Security](https://img.shields.io/badge/Focus-Authentication%20Security-228B22?style=flat-square)](https://github.com/muhammadfaizanali102/Secure-Hashing)
 
----
+### 🏥 [Secure Healthcare Network](https://github.com/muhammadfaizanali102/Secure-HealthCare-Netthat)
+
+A healthcare network design project focused on secure communication, network segmentation, and protecting sensitive organizational resources. The network design explores enterprise networking concepts such as VLANs, routing, access control, and network availability using Cisco Packet Tracer.
+
+[![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.cisco.com/)
+[![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-Network%20Simulation-0078D4?style=flat-square)](https://www.netacad.com/)
+[![Network Security](https://img.shields.io/badge/Network-Security-228B22?style=flat-square)](https://github.com/muhammadfaizanali102/Secure-HealthCare-Netthat)
+[![Healthcare](https://img.shields.io/badge/Domain-Healthcare-00A6A6?style=flat-square)](https://github.com/muhammadfaizanali102/Secure-HealthCare-Netthat)
+
 
 # 🧰 Security Tools
 
