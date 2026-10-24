@@ -168,36 +168,6 @@ PHP          ████████████
 JavaScript   ███████████
 SQL          ███████████
 ```
-
----
-
-# 📜 Certifications & Training
-
-* 🛡️ **Ethical Hacking** — Hope Foundation
-* 🔐 **Siemens PSCE** — OPSWAT Academy
-* 🏭 **ICIP — Introduction to Critical Infrastructure Protection** - OPSWAT Academy
-* 🌐 **CCNA** — Completed 
-
----
-
-# 🎯 Career Goals
-
-My long-term goal is to build strong practical expertise in cybersecurity and work toward a professional career in **Security Operations, Threat Analysis, Ethical Hacking, and Network Security**.
-
-### My Goals
-
-* 🛡️ Build strong SOC and security monitoring skills
-* 🔎 Develop practical threat analysis capabilities
-* 🌐 Strengthen network security knowledge
-* 🧪 Continue hands-on ethical hacking practice
-* 🐍 Develop Python-based security automation
-* 🤖 Explore AI-assisted cybersecurity workflows
-* 🧬 Improve digital forensics skills
-* 📚 Continue learning modern cybersecurity technologies
-* 🤝 Contribute to cybersecurity and open-source projects
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -231,7 +201,9 @@ My long-term goal is to build strong practical expertise in cybersecurity and wo
 <a href="https://github.com/muhammadfaizanali102">
 <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+<a href="https://www.linkedin.com/in/muhammadfaizan-ali-466559446">
+<img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
